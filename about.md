@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Программист встраиваемых систем
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Это мой личный блог
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[f131k@yandex.ru](mailto:f131k@yandex.ru)
