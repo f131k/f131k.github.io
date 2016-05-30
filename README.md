@@ -1,1 +1,1 @@
-This is F131k personal blog.
+template for personal blog.
